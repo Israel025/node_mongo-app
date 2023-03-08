@@ -83,3 +83,6 @@ typings/
 
 #DynamoDB Local files 
 .dynamodb/ 
+
+#K8s secret file
+secret.yaml
